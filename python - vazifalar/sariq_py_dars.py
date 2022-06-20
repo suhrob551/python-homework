@@ -58,4 +58,4 @@
 #     if n % i == 0:
 #         print(f"{n} soni {i} ga qoldiqsiz bolinadi")
 
-
+# yangilandi
